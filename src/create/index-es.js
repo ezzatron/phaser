@@ -1,5 +1,5 @@
+import * as Palettes from './palettes/index-es'
 import GenerateTexture from './GenerateTexture'
-import Palettes from './palettes/index-es'
 
 export {
     GenerateTexture,

@@ -1,5 +1,5 @@
+import * as Parsers from './parsers/index-es'
 import Frame from './Frame'
-import Parsers from './parsers/index-es'
 import Texture from './Texture'
 import TextureManager from './TextureManager'
 import TextureSource from './TextureSource'

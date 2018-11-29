@@ -1,11 +1,11 @@
-import Circle from './circle/index-es'
-import Ellipse from './ellipse/index-es'
-import Intersects from './intersects/index-es'
-import Line from './line/index-es'
-import Point from './point/index-es'
-import Polygon from './polygon/index-es'
-import Rectangle from './rectangle/index-es'
-import Triangle from './triangle/index-es'
+import * as Circle from './circle/index-es'
+import * as Ellipse from './ellipse/index-es'
+import * as Intersects from './intersects/index-es'
+import * as Line from './line/index-es'
+import * as Point from './point/index-es'
+import * as Polygon from './polygon/index-es'
+import * as Rectangle from './rectangle/index-es'
+import * as Triangle from './triangle/index-es'
 
 export {
     Circle,

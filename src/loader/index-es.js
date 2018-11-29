@@ -1,5 +1,5 @@
+import * as FileTypes from './filetypes/index-es'
 import File from './File'
-import FileTypes from './filetypes/index-es'
 import FileTypesManager from './FileTypesManager'
 import GetURL from './GetURL'
 import LoaderPlugin from './LoaderPlugin'

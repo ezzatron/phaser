@@ -1,6 +1,6 @@
-import Array from './array/index-es'
-import Objects from './object/index-es'
-import String from './string/index-es'
+import * as Array from './array/index-es'
+import * as Objects from './object/index-es'
+import * as String from './string/index-es'
 
 export {
     Array,

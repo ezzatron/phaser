@@ -1,4 +1,4 @@
-import Builders from './builders/index-es'
+import * as Builders from './builders/index-es'
 import TweenManager from './TweenManager'
 import Tween from './tween/Tween'
 import TweenData from './tween/TweenData'

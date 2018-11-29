@@ -1,5 +1,5 @@
-import In from './in/index-es'
-import To from './to/index-es'
+import * as In from './in/index-es'
+import * as To from './to/index-es'
 
 import {
     TOP_LEFT,
