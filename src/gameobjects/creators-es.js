@@ -9,6 +9,7 @@ import Particles from './particles/ParticleManagerCreator'
 import Quad from './quad/QuadCreator'
 import RenderTexture from './rendertexture/RenderTextureCreator'
 import Sprite from './sprite/SpriteCreator'
+import Sprite3D from '../../plugins/camera3d/src/sprite3d/Sprite3DCreator'
 import StaticBitmapText from './bitmaptext/static/BitmapTextCreator'
 import Text from './text/static/TextCreator'
 import TileSprite from './tilesprite/TileSpriteCreator'
@@ -26,6 +27,7 @@ export {
     Quad,
     RenderTexture,
     Sprite,
+    Sprite3D,
     StaticBitmapText,
     Text,
     TileSprite,

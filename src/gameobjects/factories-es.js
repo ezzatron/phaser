@@ -21,6 +21,7 @@ import Quad from './quad/QuadFactory'
 import Rectangle from './shape/rectangle/RectangleFactory'
 import RenderTexture from './rendertexture/RenderTextureFactory'
 import Sprite from './sprite/SpriteFactory'
+import Sprite3D from '../../plugins/camera3d/src/sprite3d/Sprite3DFactory'
 import Star from './shape/star/StarFactory'
 import StaticBitmapText from './bitmaptext/static/BitmapTextFactory'
 import Text from './text/static/TextFactory'
@@ -52,6 +53,7 @@ export {
     Rectangle,
     RenderTexture,
     Sprite,
+    Sprite3D,
     Star,
     StaticBitmapText,
     Text,

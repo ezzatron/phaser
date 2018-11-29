@@ -34,6 +34,7 @@ import RenderTexture from './rendertexture/RenderTexture'
 import RetroFont from './bitmaptext/RetroFont'
 import Shape from './shape/Shape'
 import Sprite from './sprite/Sprite'
+import Sprite3D from '../../plugins/camera3d/src/sprite3d/Sprite3D'
 import Star from './shape/star/Star'
 import Text from './text/static/Text'
 import TileSprite from './tilesprite/TileSprite'
@@ -78,6 +79,7 @@ export {
     RetroFont,
     Shape,
     Sprite,
+    Sprite3D,
     Star,
     Text,
     TileSprite,
