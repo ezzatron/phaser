@@ -1,10 +1,3 @@
-import ScaleModes, {
-    EXACT,
-    FILL,
-    CONTAIN,
-    RESIZE,
-} from './const'
-
 import AddToDOM from './AddToDOM'
 import Calibrate from './Calibrate'
 import ClientHeight from './ClientHeight'
@@ -21,6 +14,13 @@ import RemoveFromDOM from './RemoveFromDOM'
 import RequestAnimationFrame from './RequestAnimationFrame'
 import ScaleManager from './ScaleManager'
 import VisualBounds from './VisualBounds'
+
+import ScaleModes, {
+    EXACT,
+    FILL,
+    CONTAIN,
+    RESIZE,
+} from './const'
 
 export {
     AddToDOM,
