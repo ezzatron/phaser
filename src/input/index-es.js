@@ -1,12 +1,12 @@
 import CreateInteractiveObject from './CreateInteractiveObject'
-import Gamepad from './gamepad'
+import Gamepad from './gamepad/index-es'
 import InputManager from './InputManager'
 import InputPlugin from './InputPlugin'
 import InputPluginCache from './InputPluginCache'
-import Keyboard from './keyboard'
-import Mouse from './mouse'
+import Keyboard from './keyboard/index-es'
+import Mouse from './mouse/index-es'
 import Pointer from './Pointer'
-import Touch from './touch'
+import Touch from './touch/index-es'
 
 import {
     MOUSE_DOWN,
